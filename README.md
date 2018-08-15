@@ -21,3 +21,8 @@ Simple create-react-app with a clickable button for some functionality. Nothing 
 `npm run cypress` start the test runner
 
 In the app that opens, click the test you want to run or click to run all.
+
+# Future Resources
+
+- Stubs
+- [Videos](https://docs.cypress.io/examples/examples/tutorials.html)
