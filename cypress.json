@@ -1,0 +1,12 @@
+{
+  "integrationFolder": "for_great_justice",
+  "fixturesFolder": "a_lesser_known_evil/fixtures",
+  "pluginsFile": "a_lesser_known_evil/plugins",
+  "supportFile": "a_lesser_known_evil/support",
+  "screenshotsFolder": "a_lesser_known_evil/media",
+  "videosFolder": "a_lesser_known_evil/media",
+  "testFiles": "**/*.unicorn-vision.js",
+  "env": {
+    "app_url": "http://localhost:3000/"
+  }
+}
